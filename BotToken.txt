@@ -1,0 +1,1 @@
+Paste your bot token in here. You'll error if you dont!
